@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    :"Dr. Ranveer Singh"
+title                    : "Dr. Ranveer Singh"
 title_separator          : "-"
 name                     : &name "Ranveer"
 description              : &description "Ranveer Grade II"
