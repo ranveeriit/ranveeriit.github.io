@@ -5,4 +5,4 @@ title: ""
 permalink: /student/
 author_profile: true
 ---
-http://iiti.ac.in/
+Joshi Zarnaben Pranavkumar 
