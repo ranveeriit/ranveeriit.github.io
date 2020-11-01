@@ -5,6 +5,8 @@ permalink: /bio/
 author_profile: true
 ---
 
+
+$$x^2=y$$
 I completed my B.Tech in the year 2012 from IIT Jodhpur in Computer Science
 and Engineering, and the initial two years of B.Tech I was at IIT Kanpur.
 I completed my Ph.D. in July 2018 from IIT Jodhpur in the Department of
