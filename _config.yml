@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ranveer Singh"
-  avatar           : "ranu.png"
+  name             : ""
+  avatar           : "Ranu.jpg"
   bio              : "Assistant professor at IIT Indore"
-  location         : "CSE"
+  location         : "http://iiti.ac.in/"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.co.in/citations?user=6vNK13kAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
