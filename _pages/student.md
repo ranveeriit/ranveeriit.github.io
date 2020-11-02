@@ -4,4 +4,4 @@ title: ""
 permalink: /student/
 author_profile: true
 ---
-Joshi Zarnaben Pranavkumar 
+- Joshi Zarnaben Pranavkumar (MS Student)
