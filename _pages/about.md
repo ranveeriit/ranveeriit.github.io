@@ -20,7 +20,7 @@ I broadly work in spectral graph theory, that is, the study of graphs using the 
    
 Apart from above two problems, I am trying to explore the area of [Quantum Computing](https://en.wikipedia.org/wiki/Quantum_computing#:~:text=Quantum%20computing%20is%20the%20use,are%20known%20as%20quantum%20computers.), feel free to ping me for the discussions on it.
 
-**For the students who want to work me:** please drop me an email if your are interested in the following reasearch areas: *Algorithmic Graphs (Matrix) Theory, Computational Complexity, Complex network analysis*
+**For the students who want to work with me:** please drop me an email if your are interested in the following reasearch areas: *Algorithmic Graphs (Matrix) Theory, Computational Complexity, Complex network analysis*
 
 For some open problem proposed by me see [Mathoverflow](https://mathoverflow.net/users/91089/ranveer-singh). For some interesting read and ideas see [Medium](https://medium.com/). 
 
