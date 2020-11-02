@@ -8,14 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the [Discipline of Computer Science & Engineering, IIT Indore](http://cse.iiti.ac.in/)
-
-
-# Contact Address:
-Room No. 408 POD 1 A, IIT Indore\
-Contact: +91-731-6603224\
-Indore-453552, MP, India
-
+I am an Assistant Professor in the [Discipline of Computer Science & Engineering, IIT Indore](http://cse.iiti.ac.in/
 
 
 # Research Interests
@@ -27,9 +20,11 @@ I broadly work in spectral graph theory, that is, the study of graphs using the 
    
 Apart from above two problems, I am trying to explore the area of [Quantum Computing](https://en.wikipedia.org/wiki/Quantum_computing#:~:text=Quantum%20computing%20is%20the%20use,are%20known%20as%20quantum%20computers.), feel free to ping me for the discussions on it.
 
-**For the students who want to have a PhD under me:** I wish guide in these areas- *Algorithmic Graphs (Matrix) Theory, Complexity Theory, Complex network analysis*
+**For the students who want to work me:** please drop me an email if your are interested in the following reasearch areas: *Algorithmic Graphs (Matrix) Theory, Complexity Theory, Complex network analysis*
 
-For some open problem proposed by me see [Mathoverflow](https://mathoverflow.net/users/91089/ranveer-singh), and interesting ideas and read see [Medium](https://medium.com/) 
+For some open problem proposed by me see [Mathoverflow](https://mathoverflow.net/users/91089/ranveer-singh). For some interesting read and ideas see [Medium](https://medium.com/) 
 
-
-
+# Contact Address:
+Room No. 408 POD 1 A, IIT Indore\
+Contact: +91-731-6603224\
+Indore-453552, MP, India
