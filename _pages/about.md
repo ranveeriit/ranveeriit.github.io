@@ -12,7 +12,7 @@ I am an Assistant Professor in the [Discipline of Computer Science & Engineering
 
 
 # Research Interests
-I broadly work in spectral graph theory, that is, the study of graphs using the associated matrices like adjacency matrix, Laplacian matrix, Seidel matrix, etc. The two problem I am majorly interested in are
+I broadly work in spectral graph theory, that is, the study of graphs using the associated matrices like adjacency matrix, Laplacian matrix, Seidel matrix, etc. The two problem I am primarily interested in are
  - the constructions of the [expander Graphs](https://en.wikipedia.org/wiki/Expander_graph#:~:text=In%20combinatorics%2C%20an%20expander%20graph,vertex%2C%20edge%20or%20spectral%20expansion.) and in particular explicit construction of [Ramanujan Graphs](https://en.wikipedia.org/wiki/Ramanujan_graph) which are the best possible expanders.
    - For more detail see an excellent survey by [Hoory, Linial, Wigderson](https://www.cs.huji.ac.il/~nati/PAPERS/expander_survey.pdf)
  - [matrix determinant](https://en.wikipedia.org/wiki/Determinant) (P) vs [Matrix permanent](https://en.wikipedia.org/wiki/Permanent_(mathematics)) (#P-complete) problem. 
