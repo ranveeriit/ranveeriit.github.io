@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the Discipline of Computer Science & Engineering, IIT Indore.\
+I am an Assistant Professor in the [Discipline of Computer Science & Engineering, IIT Indore](http://cse.iiti.ac.in/)
+
+
 Contact Address:\
 Room No. 408 POD 1 A, IIT Indore\
 Contact: +91-731-6603224\
@@ -16,8 +18,18 @@ Indore-453552, MP, India
 
 
 
-Research Interests
--
-I broadly work in spectral graph theory, that is, the study of graphs using the associated matrices like adjacency matrix, Laplacian matrix, Seidel matrix, etc. At present, I am working on
- (1) the constructions of the expander graphs and in particular explicit construction of Ramanujan graphs which are the best possible expander graphs.
- (2) Matrix determinant (P) vs Matrix permanent (#P-complete) problem. 
+# Research Interests
+I broadly work in spectral graph theory, that is, the study of graphs using the associated matrices like adjacency matrix, Laplacian matrix, Seidel matrix, etc. The two problem I am majorly interested in are
+ - the constructions of the [expander Graphs](https://en.wikipedia.org/wiki/Expander_graph#:~:text=In%20combinatorics%2C%20an%20expander%20graph,vertex%2C%20edge%20or%20spectral%20expansion.) and in particular explicit construction of [Ramanujan Graphs](https://en.wikipedia.org/wiki/Ramanujan_graph) which are the best possible expanders.
+   - For more detail see an excellent survey by [Hoory, Linial, Wigderson](https://www.cs.huji.ac.il/~nati/PAPERS/expander_survey.pdf)
+ - [matrix determinant](https://en.wikipedia.org/wiki/Determinant) (P) vs [Matrix permanent](https://en.wikipedia.org/wiki/Permanent_(mathematics)) (#P-complete) problem. 
+   - For more detail see articles by [Manindra Agrawal](https://www.cse.iitk.ac.in/users/manindra/survey/Determinant.pdf) and [Frank Ban](https://math.berkeley.edu/~bernd/ban275.pdf)
+   
+Apart from above two problems, I am trying to explore the area of [Quantum Computing](https://en.wikipedia.org/wiki/Quantum_computing#:~:text=Quantum%20computing%20is%20the%20use,are%20known%20as%20quantum%20computers.), feel free to ping me for the discussions on it.
+
+**For the students who want to have a PhD under me:** I can guide in these areas- *Algorithmic Graphs (Matrix) Theory, Complexity Theory*
+
+For interesting ideas and read see [Medium](https://medium.com/) 
+
+
+
