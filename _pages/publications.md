@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 
-Independent Research Works:
+# Independent Research Works:
 - Singh, Ranveer. "[Parameterized complexity of  determinant and permanent.](https://www.sciencedirect.com/science/article/pii/S0304397520304941)" *Theoretical Computer Science*  845 (2020) 50-58
 - Singh, Ranveer. "[Permanent, determinant, and rank of bi-block graphs.](https://link.springer.com/article/10.1007/s00010-019-00687-0#:~:text=Bi%2Dblock%20graphs%20are%20a,equal%20to%202q%20%5B8%5D.)" *Aequationes mathematicae* 94, no. 1 (2020): 1-12.  
-3. Singh, Ranveer. "[On eigenvector structure of weakly balanced networks.](https://www.sciencedirect.com/science/article/pii/S0378437119306697)" *Physica A: Statistical Mechanics and its Applications* 527 (2019): 121093. 
+- Singh, Ranveer. "[On eigenvector structure of weakly balanced networks.](https://www.sciencedirect.com/science/article/pii/S0378437119306697)" *Physica A: Statistical Mechanics and its Applications* 527 (2019): 121093. 
 
 # Research Works in Collaboration: 
 - Singh, Ranveer, and Bibhas Adhikari. "[Measuring the balance of signed networks and its application to sign prediction](https://iopscience.iop.org/article/10.1088/1742-5468/aa73ef/meta)." *Journal of Statistical Mechanics: Theory and Experiment* 2017, no. 6 (2017): 063302. 
