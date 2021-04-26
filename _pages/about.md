@@ -22,6 +22,8 @@ Apart from above two problems, I am trying to explore the area of [Quantum Compu
 
 **For the students who want to work with me:** please drop me an email if your are interested in the following reasearch areas: *Algorithmic Graphs (Matrix) Theory, Computational Complexity, Complex network analysis*.
 
+**An advertisement for JRF position:** see the advertisement titled "Reducing parameterized complexities of matrix determinant and permanents"[here](http://iiti.ac.in/recruitments/jrf-srf-positions)
+
 For some open problem proposed by me see [Mathoverflow](https://mathoverflow.net/users/91089/ranveer-singh). For some interesting read and ideas see [Medium](https://medium.com/). 
 
 # Contact Address:
