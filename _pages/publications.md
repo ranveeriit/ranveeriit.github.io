@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+
 # Related to Spectral Graph Theory and Its Application 
 - Pradumn Kumar Pandey, Ranveer Singh. "[Fast Average-consensus on Networks using Heterogeneous Diffusion.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9419863)" *IEEE Transactions on Circuits and Systems--II: Express Briefs* (2021)
 - Berman, Abraham, Naomi Shaked-Monderer, Ranveer Singh, and Xiao-Dong Zhang. "[Complete multipartite graphs that are determined, up to switching, by their Seidel spectrum.](https://www.sciencedirect.com/science/article/pii/S0024379518305457)". *Linear Algebra and its Applications* 564 (2019): 58-71.
