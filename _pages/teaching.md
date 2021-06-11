@@ -15,6 +15,8 @@ author_profile: true
 
 -[Finding cut-vertices and the biconnected components](https://drive.google.com/file/d/1Aw6_z9Kq9nzjuP_Tmyi4aclfkTUtEpPc/view?usp=sharing) 
 
+-[Cauchy-Schwarz Inequality, Spectral Theorem, Cauchy Interlacing](https://drive.google.com/file/d/1EcoyJIdICGs8fkGNFT57VaJyo_RFjHad/view?usp=sharing)
+
 # Subjects taught
 - Theory of Computation- Spring 2020
 - Advanced Algorithms- Fall 2020
