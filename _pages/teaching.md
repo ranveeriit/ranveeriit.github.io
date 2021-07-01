@@ -13,7 +13,7 @@ author_profile: true
 
 -[Ramanujan Graphs (The best expanders)](https://drive.google.com/file/d/1F0e1l5OxH7VhBQbwcSWmtGc9fAZahgyX/view?usp=sharing)
 
--[Finding cut-vertices and the biconnected components](https://drive.google.com/file/d/1Aw6_z9Kq9nzjuP_Tmyi4aclfkTUtEpPc/view?usp=sharing) 
+-[Finding Cut-Vertices and the Biconnected Components](https://drive.google.com/file/d/1Aw6_z9Kq9nzjuP_Tmyi4aclfkTUtEpPc/view?usp=sharing) 
 
 -[Cauchy-Schwarz Inequality, Spectral Theorem, Cauchy Interlacing](https://drive.google.com/file/d/1EcoyJIdICGs8fkGNFT57VaJyo_RFjHad/view?usp=sharing)
 
