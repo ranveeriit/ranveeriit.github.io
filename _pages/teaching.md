@@ -17,6 +17,8 @@ author_profile: true
 
 -[Cauchy-Schwarz Inequality, Spectral Theorem, Cauchy Interlacing](https://drive.google.com/file/d/1EcoyJIdICGs8fkGNFT57VaJyo_RFjHad/view?usp=sharing)
 
+-[Basic Maths of Principal Component Analysis (PCA)](https://drive.google.com/file/d/1qXXesuvp0XRkZwpniT__DYOteC-Fz3kH/view?usp=sharing)
+
 # Subjects taught
 - Theory of Computation- Spring 2020
 - Advanced Algorithms- Fall 2020
