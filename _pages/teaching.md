@@ -19,7 +19,6 @@ author_profile: true
 
 -[Basic Maths of Principal Component Analysis (PCA)](https://drive.google.com/file/d/1qXXesuvp0XRkZwpniT__DYOteC-Fz3kH/view?usp=sharing)
 
--[Test file](https://github.com/ranveeriit/ranveeriit.github.io/blob/master/_pages/Testinng.pdf)
 
 # Subjects taught
 - Theory of Computation- Spring 2020
