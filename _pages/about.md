@@ -10,6 +10,8 @@ redirect_from:
 
 I am an Assistant Professor in the [Discipline of Computer Science & Engineering, IIT Indore](http://cse.iiti.ac.in/)
 
+I have a huge regards to mathematics (the queen of sciences), and mathematicians (I am very far from being one), they are the  best contributor to the humanity, often silent yet elegant, they are always well ahead than the present time, the world follow them later. They have their own [challenges and frustration](https://www.isid.ac.in/~rbb/imsgen.pdf)  nicely explaned by mathematician [RB Bapat](https://en.wikipedia.org/wiki/Ravindra_Bapat).  
+
 
 # Research Interests
 I broadly work in spectral graph theory, that is, the study of graphs using the matrices associated with graphs like adjacency matrix, Laplacian matrix, Seidel matrix, etc. The two problem I am primarily interested in are
