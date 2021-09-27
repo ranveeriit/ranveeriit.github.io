@@ -32,6 +32,6 @@ I broadly work in spectral graph theory, that is, the study of graphs using the 
 For some open problem proposed by me see [Mathoverflow](https://mathoverflow.net/users/91089/ranveer-singh). For some interesting read and ideas see [Medium](https://medium.com/). 
 
 # Contact Address:
-Room No. 408 POD 1 A, IIT Indore\
+Room No. 408 POD 1A, IIT Indore\
 Contact: +91-731-6603224\
 Indore-453552, MP, India
