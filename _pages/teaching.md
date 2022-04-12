@@ -9,7 +9,7 @@ author_profile: true
 # Some CS-Math write-up
 -[Matrix-Tree Theorem](https://ranveeriit.github.io/files/Matrix_Tree_Theorem.pdf) 
 
--[Why Some Languages are Nonregular (The Pumping Lemma)](https://github.com/ranveeriit/ranveeriit.github.io/blob/master/files/Toc_PumpingLemma.pdf)
+-[Why Some Languages are Nonregular (The Pumping Lemma)](https://github.com/ranveeriit/ranveeriit.github.io/files/Toc_PumpingLemma.pdf)
 
 -[Ramanujan Graphs (The best expanders)](https://drive.google.com/file/d/1F0e1l5OxH7VhBQbwcSWmtGc9fAZahgyX/view?usp=sharing)
 
