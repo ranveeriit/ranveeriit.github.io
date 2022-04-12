@@ -13,11 +13,11 @@ author_profile: true
 
 -[Ramanujan Graphs (The best expanders)](https://ranveeriit.github.io/files/Expanders-Ramanujan_Graph)
 
--[Finding Cut-Vertices and the Biconnected Components](https://drive.google.com/file/d/1Aw6_z9Kq9nzjuP_Tmyi4aclfkTUtEpPc/view?usp=sharing) 
+-[Finding Cut-Vertices and the Biconnected Components](https://ranveeriit.github.io/files/Cut_vertices_and_Biconnected_Component) 
 
--[Cauchy-Schwarz Inequality, Spectral Theorem, Cauchy Interlacing](https://drive.google.com/file/d/1EcoyJIdICGs8fkGNFT57VaJyo_RFjHad/view?usp=sharing)
+-[Cauchy-Schwarz Inequality, Spectral Theorem, Cauchy Interlacing](https://ranveeriit.github.io/files/Three_Theorem)
 
--[Basic Maths of Principal Component Analysis (PCA)](https://drive.google.com/file/d/1qXXesuvp0XRkZwpniT__DYOteC-Fz3kH/view?usp=sharing)
+-[Basic Maths of Principal Component Analysis (PCA)](https://ranveeriit.github.io/files/Basic_Maths_of_PCA(ML))
 
 
 # Subjects taught
