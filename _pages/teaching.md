@@ -7,7 +7,7 @@ author_profile: true
 
 
 # Some CS-Math write-up
--[Matrix-Tree Theorem](https://drive.google.com/file/d/18bmCEWPHRRZa-rZXpwgM0o8dppP8HmE4/view?usp=sharing) 
+-[Matrix-Tree Theorem](https://ranveeriit.github.io/files/Matrix_Tree_Theorem.pdf) 
 
 -[Why Some Languages are Nonregular (The Pumping Lemma)](https://drive.google.com/file/d/1ByYkPbY2zcMMY6Izq5o9QHN0hh6qM2pm/view?usp=sharing)
 
