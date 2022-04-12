@@ -11,13 +11,13 @@ author_profile: true
 
 -[Why Some Languages are Nonregular (The Pumping Lemma)](https://ranveeriit.github.io/files/Toc_PumpingLemma.pdf)
 
--[Ramanujan Graphs (The best expanders)](https://ranveeriit.github.io/files/Expanders-Ramanujan_Graph)
+-[Ramanujan Graphs (The best expanders)](https://ranveeriit.github.io/files/Expanders-Ramanujan_Graph.pdf)
 
--[Finding Cut-Vertices and the Biconnected Components](https://ranveeriit.github.io/files/Cut_vertices_and_Biconnected_Component) 
+-[Finding Cut-Vertices and the Biconnected Components](https://ranveeriit.github.io/files/Cut_vertices_and_Biconnected_Component.pdf) 
 
--[Cauchy-Schwarz Inequality, Spectral Theorem, Cauchy Interlacing](https://ranveeriit.github.io/files/Three_Theorem)
+-[Cauchy-Schwarz Inequality, Spectral Theorem, Cauchy Interlacing](https://ranveeriit.github.io/files/Three_Theorem.pdf)
 
--[Basic Maths of Principal Component Analysis (PCA)](https://ranveeriit.github.io/files/Basic_Maths_of_PCA(ML))
+-[Basic Maths of Principal Component Analysis (PCA)](https://ranveeriit.github.io/files/Basic_Maths_of_PCA(ML).pdf)
 
 
 # Subjects taught
