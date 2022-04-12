@@ -11,7 +11,7 @@ author_profile: true
 
 -[Why Some Languages are Nonregular (The Pumping Lemma)](https://ranveeriit.github.io/files/Toc_PumpingLemma.pdf)
 
--[Ramanujan Graphs (The best expanders)](https://drive.google.com/file/d/1F0e1l5OxH7VhBQbwcSWmtGc9fAZahgyX/view?usp=sharing)
+-[Ramanujan Graphs (The best expanders)](https://ranveeriit.github.io/files/Expanders-Ramanujan_Graph)
 
 -[Finding Cut-Vertices and the Biconnected Components](https://drive.google.com/file/d/1Aw6_z9Kq9nzjuP_Tmyi4aclfkTUtEpPc/view?usp=sharing) 
 
