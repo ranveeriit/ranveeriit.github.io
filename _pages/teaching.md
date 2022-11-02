@@ -17,7 +17,7 @@ author_profile: true
 
 -[A Warm-up with Matrices](https://ranveeriit.github.io/files/Warmup.pdf)
 
--[Bad, Good, Better, Best Matrices](https://ranveeriit.github.io/files/Good,Bad,Better, Best.pdf)
+-[Bad, Good, Better, Best Matrices](https://ranveeriit.github.io/files/BGBB.pdf)
 
 -[Some Proofs on Matrices](https://ranveeriit.github.io/files/Someproofs.pdf)
 
