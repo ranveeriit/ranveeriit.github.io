@@ -27,3 +27,4 @@ author_profile: true
 - Advanced Algorithms- Fall 2020, Fall 2021
 - Automata Theory and Logic- Spring 2021
 - Design and Analysis of Algorithms- Spring 2022
+- Discrete Mathematics-Fall 2022
