@@ -17,7 +17,7 @@ author_profile: true
 
 # Related to Theoretical Computer Science and Discrete Mathematics
 - Ranveer Singh. "[Parameterized complexity of  determinant and permanent.](https://www.sciencedirect.com/science/article/pii/S0304397520304941)" *Theoretical Computer Science*  845 (2020) 50-58
-- Ranveer Singh, Naomi Shaked-Monderer, and Avi Berman. "[A linear time algorithm for the nullity of vertex-weighted block graphs.](https://www.sciencedirect.com/science/article/pii/S0166218X20305588)" *Discrete Applied Mathematics* 2021.
+- Ranveer Singh, Naomi Shaked-Monderer, and Avi Berman. "[A linear time algorithm for the nullity of vertex-weighted block graphs.](https://www.sciencedirect.com/science/article/pii/S0166218X20305588)" *Discrete Applied Mathematics* 2022.
 - Ranveer Singh. "[Permanent, determinant, and rank of bi-block graphs.](https://link.springer.com/article/10.1007/s00010-019-00687-0#:~:text=Bi%2Dblock%20graphs%20are%20a,equal%20to%202q%20%5B8%5D.)" *Aequationes mathematicae* 94, no. 1 (2020): 1-12. 
 - Ranveer Singh, and Ravindra B. Bapat. "[On characteristic and permanent polynomials of a matrix.](https://www.degruyter.com/view/journals/spma/5/1/article-p97.xml?language=en)" *Special Matrices* 5, no. 1 (2017): 97-112. 
 - Ranveer Singh, Naomi Shaked-Monderer, and Avi Berman. "[Linear time algorithm to check the singularity of block graphs.](https://link.springer.com/chapter/10.1007/978-3-030-11509-8_7)" *In Conference on Algorithms and Discrete Applied Mathematics*, pp. 77-90. Springer, Cham, 2019. 
