@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-# Related to Spectral Graph Theory and Its Application 
+# Related to Algebraic Graph Theory and Its Application 
 - Hitesh Wankhede, Ranveer Singh. "[A note on graphs with purely imaginary per-spectrum](https://arxiv.org/pdf/2211.13072.pdf)" (2022)
 - Pradumn Kumar Pandey, Ranveer Singh, AK Lal. "[SRF: Random Expanders for Designing Scalable Robust and Fast Communication Networks](https://ieeexplore.ieee.org/document/9837309?fbclid=IwAR1lYzBM9PR6LuNtmOv9-NAeIBC-MnW6uHm1afAKS0_gqDvxsmM_DPn5HFM)" *IEEE Transactions on Circuits and Systems--II: Express Briefs* (2022)
 - Pradumn Kumar Pandey, Ranveer Singh. "[Fast Average-consensus on Networks using Heterogeneous Diffusion.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9419863)" *IEEE Transactions on Circuits and Systems--II: Express Briefs* (2021)
