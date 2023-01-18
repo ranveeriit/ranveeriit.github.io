@@ -9,7 +9,7 @@ author_profile: true
 # Some CS-Math write-up
 -[Matrix-Tree Theorem](https://ranveeriit.github.io/files/Matrix_Tree_Theorem.pdf) 
 
--[Matrix-Tree Theorem](https://ranveeriit.github.io/files/Some_Proofs_on_Graphs.pdf) 
+-[Some Proofs on graphs](https://ranveeriit.github.io/files/Some_Proofs_on_Graphs.pdf) 
 
 -[Why Some Languages are Nonregular (The Pumping Lemma)](https://ranveeriit.github.io/files/Toc_PumpingLemma.pdf)
 
