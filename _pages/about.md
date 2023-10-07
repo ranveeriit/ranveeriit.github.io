@@ -34,6 +34,14 @@ I broadly work in spectral graph theory, that is, the study of graphs using the 
 - Construction of expanders and Ramanujan graphs for fast network topologies.
 - Community detection in large networks.
 
+# Subjects taught
+- Theory of Computation- Spring 2020
+- Advanced Algorithms- Fall 2020, Fall 2021, Spring 2023
+- Automata Theory and Logic- Spring 2021
+- Design and Analysis of Algorithms- Spring 2022
+- Discrete Mathematics-Fall 2022
+- Linear Algebra and Probability- Fall 2023 
+
 
 # Contact Address:
 Room No. 408 POD 1A, IIT Indore\
