@@ -26,9 +26,4 @@ author_profile: true
 -[Basic Maths of Principal Component Analysis (PCA)](https://ranveeriit.github.io/files/Basic_Maths_of_PCA(ML).pdf)
 
 
-# Subjects taught
-- Theory of Computation- Spring 2020
-- Advanced Algorithms- Fall 2020, Fall 2021
-- Automata Theory and Logic- Spring 2021
-- Design and Analysis of Algorithms- Spring 2022
-- Discrete Mathematics-Fall 2022
+
