@@ -27,13 +27,13 @@ I broadly work in spectral graph theory, that is, the study of graphs using the 
 
 
 
-**For the students who want to work with me:** please drop me an email if your are interested in the following reasearch areas: *Algorithmic Graphs (Matrix) Theory, Computational Complexity, Complex network analysis*.
+**For the students who want to work with me:** please email me if you are interested in the following research areas: *Algorithmic Graphs (Matrix) Theory, Computational Complexity, Complex network analysis*.
 
 # Ongoing project under me
-- Reducing parameterized complexities of matrix determinant and permanents.
-- Construction of expanders and Ramanujan graphs for fast network topologies. 
+- Reducing parameterized complexities of matrix determinants and permanents.
+- Construction of expanders and Ramanujan graphs for fast network topologies.
+- Community detection in large networks.
 
-For some open problem proposed by me see [Mathoverflow](https://mathoverflow.net/users/91089/ranveer-singh). For some interesting read and ideas see [Medium](https://medium.com/). 
 
 # Contact Address:
 Room No. 408 POD 1A, IIT Indore\
