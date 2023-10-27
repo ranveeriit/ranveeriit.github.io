@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the [Discipline of Computer Science & Engineering, IIT Indore](http://cse.iiti.ac.in/)
+I am an Assistant Professor in the [Discipline of Computer Science & Engineering, IIT Indore](http://cse.iiti.ac.in/). At present, I am the head of the department. 
 
 "Everybody understood that if the proof is correct, then no other recognition is needed"- [Grigori Perelman](https://en.wikipedia.org/wiki/Grigori_Perelman) (The mad monk of maths)
 
