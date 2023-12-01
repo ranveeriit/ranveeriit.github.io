@@ -7,6 +7,7 @@ author_profile: true
 
 
 # Some CS-Math write-up
+-[Algebra makes computation faster, some cute examples](https://ranveeriit.github.io/files/Computation_Algebra.pdf) 
 -[Matrix-Tree Theorem](https://ranveeriit.github.io/files/Matrix_Tree_Theorem.pdf) 
 
 -[Some Proofs on graphs](https://ranveeriit.github.io/files/Some_Proofs_on_Graphs.pdf) 
