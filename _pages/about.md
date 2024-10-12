@@ -27,7 +27,7 @@ I broadly work in algebraic graph theory, that is, the study of graphs using the
 
 
 
-**For the students who want to work with me:** please email me if you are interested in the following research areas: *Algorithmic Graphs (Matrix) Theory, Computational Complexity, Complex network analysis*.
+**For the students who want to work with me:** please email me if you are interested in the following research areas: *Algebraic Graph (Matrix) Theory, Computational Complexity, Complex network analysis*.
 
 # Ongoing project under me
 - Reducing parameterized complexities of matrix determinants and permanents.
