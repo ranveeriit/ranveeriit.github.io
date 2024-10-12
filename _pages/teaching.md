@@ -29,4 +29,6 @@ author_profile: true
 
 -[Albertson Conjecture on the Crossing number ](https://ranveeriit.github.io/files/Albertson_Conj.pdf)
 
+-[Some notes on selected algorithms (in very bad shape) ](https://ranveeriit.github.io/files/Rough_Notes.pdf)
+
 
