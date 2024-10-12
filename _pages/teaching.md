@@ -27,5 +27,6 @@ author_profile: true
 
 -[Basic Maths of Principal Component Analysis (PCA)](https://ranveeriit.github.io/files/Basic_Maths_of_PCA(ML).pdf)
 
+-[Albertson Conjecture on the Crossing number ](https://ranveeriit.github.io/files/Albertson_Conj.pdf)
 
 
