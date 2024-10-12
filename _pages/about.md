@@ -42,6 +42,7 @@ I broadly work in algebraic graph theory, that is, the study of graphs using the
 - Discrete Mathematics-Fall 2022
 - Linear Algebra and Probability- Fall 2023
 - Algorithmic Graph Theory- Spring 2024
+- Algebraic Graph Theory- Fall 2024
 
 
 # Contact Address:
