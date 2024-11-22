@@ -7,6 +7,8 @@ author_profile: true
 
 
 # Related to Algebraic Graph Theory and Its Application 
+- Ravindra B. Bapat, Ranveer Singh, and Hitesh Wankhede. "[Computing the permanental polynomial of
+4k-intercyclic bipartite graphs](https://ajcombinatorics.org/Volume3/V3.04.pdf)" *American Journal of Combinatorics* (2024)
 - Hitesh Wankhede, Ranveer Singh. "[A note on graphs with purely imaginary per-spectrum](https://www.sciencedirect.com/science/article/pii/S0096300324002248)" *Applied Mathematics and Computation* (2024)
 - Pradumn Kumar Pandey, Ranveer Singh, AK Lal. "[SRF: Random Expanders for Designing Scalable Robust and Fast Communication Networks](https://ieeexplore.ieee.org/document/9837309?fbclid=IwAR1lYzBM9PR6LuNtmOv9-NAeIBC-MnW6uHm1afAKS0_gqDvxsmM_DPn5HFM)" *IEEE Transactions on Circuits and Systems--II: Express Briefs* (2022)
 - Pradumn Kumar Pandey, Ranveer Singh. "[Fast Average-consensus on Networks using Heterogeneous Diffusion.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9419863)" *IEEE Transactions on Circuits and Systems--II: Express Briefs* (2021)
