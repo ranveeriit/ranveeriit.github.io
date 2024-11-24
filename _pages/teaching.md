@@ -11,7 +11,7 @@ author_profile: true
 
 -[Matrix-Tree Theorem](https://ranveeriit.github.io/files/Matrix_Tree_Theorem.pdf) 
 
--[Million dollar question in CS (in Hindi)](https://ranveeriit.github.io/files/Ranveer _Hindi IIT Jodhpur.pdf) 
+-[Million dollar question in CS (in Hindi)](https://ranveeriit.github.io/files/RanveerHindi IIT Jodhpur.pdf) 
 
 -[Some Proofs on graphs](https://ranveeriit.github.io/files/Some_Proofs_on_Graphs.pdf) 
 
