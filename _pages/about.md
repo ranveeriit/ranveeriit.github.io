@@ -16,18 +16,8 @@ I have a huge regard for mathematics (the queen of sciences), and mathematicians
 
 
 # Research Interests
-I broadly work in algebraic graph theory, that is, the study of graphs using the matrices associated with graphs like adjacency matrix, Laplacian matrix, Seidel matrix, etc. The two problem I am primarily interested in are
- - the constructions of the [expander graphs](https://en.wikipedia.org/wiki/Expander_graph#:~:text=In%20combinatorics%2C%20an%20expander%20graph,vertex%2C%20edge%20or%20spectral%20expansion.) and in particular explicit construction of [Ramanujan graphs](https://en.wikipedia.org/wiki/Ramanujan_graph) which are the best possible expanders.
-   - For more detail see an excellent survey by [Hoory, Linial, Wigderson](https://www.cs.huji.ac.il/~nati/PAPERS/expander_survey.pdf)
- - [matrix determinant](https://en.wikipedia.org/wiki/Determinant) (P) vs [matrix permanent](https://en.wikipedia.org/wiki/Permanent_(mathematics)) (#P-complete) problem. 
-   - For more detail see articles by [Manindra Agrawal](https://www.cse.iitk.ac.in/users/manindra/survey/Determinant.pdf) and [Frank Ban](https://math.berkeley.edu/~bernd/ban275.pdf)
-   
+I broadly work in algebraic graph theory, that is, the study of graphs using the matrices associated with graphs like adjacency matrix, Laplacian matrix, Seidel matrix, etc. In addition I work in quantum computing.   
 
-
-
-
-
-**For the students who want to work with me:** please email me if you are interested in the following research areas: *Algebraic Graph (Matrix) Theory, Computational Complexity, Complex network analysis*.
 
 # Ongoing project under me
 - Reducing parameterized complexities of matrix determinants and permanents.
