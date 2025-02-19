@@ -3,7 +3,11 @@ layout: archive
 title: ""
 permalink: /talks/
 author_profile: true
----
+--- 
+- Invited talk- at exploreCSR 2023-2024: Google Research Sponsored Mentorship Program- IIT Roorkee
+
+- Invited talk- at [38th Annual Conference of
+Ramanujan Mathematical Society](https://event.iitg.ac.in/rms2023/), 2023 on *Expanders*.
 - Invited talk- at [Department of mathematics IIT Kharagpur](http://www.facweb.iitkgp.ac.in/~rkannan/gma.html), 2020 on *Ramanujan Graphs*.
 
 - Invited talk- at [Department of Computer Science and Engineering, IIT Indore](http://cse.iiti.ac.in/), 2021,  in [iWAI 2021 workshop](https://www.iiti.ac.in/public/storage/events/March2021/iWAI%202021.pdf),  on *PCA using SVD*.
