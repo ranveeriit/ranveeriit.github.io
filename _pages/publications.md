@@ -4,6 +4,7 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
+- Aman Singh, Shahid Shafi Dar, Ranveer Singh, Nagendra Kumar “[A Hybrid Similarity-Aware Graph Neural Network with Transformer for Node Classification]([https://arxiv.org/pdf/2503.08128](https://www.sciencedirect.com/science/article/pii/S0957417425009145?dgcid=coauthor)” *Expert Systems with Applications* (2025)
 - Surabhi Chakrabartty and Ranveer Singh “[Permanent of bipartite graphs in terms of determinants](https://arxiv.org/pdf/2503.08128)” (2025)
 - Hareshkumar, Sreekara Madyastha, Rahul Raut, Ranveer Singh. “Generalizing Wilf’s inequality for strongly regular graphs” *MatTriad'25* (2025)
 - Ravindra B. Bapat, Ranveer Singh, and Hitesh Wankhede. "[Computing the permanental polynomial of
