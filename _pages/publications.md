@@ -16,6 +16,8 @@ author_profile: true
 - Pradumn Kumar Pandey, Ranveer Singh, AK Lal. "[SRF: Random Expanders for Designing Scalable Robust and Fast Communication Networks](https://ieeexplore.ieee.org/document/9837309?fbclid=IwAR1lYzBM9PR6LuNtmOv9-NAeIBC-MnW6uHm1afAKS0_gqDvxsmM_DPn5HFM)" *IEEE Transactions on Circuits and Systems--II: Express Briefs* (2022)
 
 - Ranveer Singh, Naomi Shaked-Monderer, and Avi Berman. "[A linear time algorithm for the nullity of vertex-weighted block graphs.](https://www.sciencedirect.com/science/article/pii/S0166218X20305588)" *Discrete Applied Mathematics* 2022.
+  
+- Ankit Mishra, Ranveer Singh and Sarika Jalan. "[On the second largest eigenvalue of networks.](https://appliednetsci.springeropen.com/articles/10.1007/s41109-022-00484-w)" *Applied Network Science* 2022.
 
 - Pradumn Kumar Pandey, Ranveer Singh. "[Fast Average-consensus on Networks using Heterogeneous Diffusion.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9419863)" *IEEE Transactions on Circuits and Systems--II: Express Briefs* (2021)
   
