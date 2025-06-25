@@ -7,6 +7,8 @@ author_profile: true
 
 
 # Some CS-Math write-up
+-[Graphs with exactly one positive eigenvalue](https://ranveeriit.github.io/files/CompleteMultipartiteGraphs.pdf) 
+
 -[Algebra makes computation faster, some cute examples](https://ranveeriit.github.io/files/Computation_Algebra.pdf) 
 
 -[Matrix-Tree Theorem](https://ranveeriit.github.io/files/Matrix_Tree_Theorem.pdf) 
