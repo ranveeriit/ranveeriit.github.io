@@ -4,7 +4,7 @@ title: ""
 permalink: /publications/
 author_profile: true
 --- 
-- Surabhi Chakrabartty and Ranveer Singh “[Generating Constrained Lattice Paths in a Grid related to counting cycles](https://ictcs2025.unich.it/)” ICTCS, 2025
+- Hareshkumar Jadav, Mihir Patel, Samip Shah, Ranveer Singh and Harsh Talati “[Generating Constrained Lattice Paths in a Grid related to counting cycles](https://ictcs2025.unich.it/)” ICTCS, 2025
 - Surabhi Chakrabartty and Ranveer Singh “[Permanent as determinants for bipartite graphs](https://arxiv.org/pdf/2503.08128)” [ISSAC](https://www.issac-conference.org/2025/), 2025
 - Abhinav Bitragunta, Hareshkumar Jadav, Ranveer Singh "[Cartesian Prime Graphs and Cospectral Families](https://arxiv.org/pdf/2505.24358)" [ISSAC](https://www.issac-conference.org/2025/), 2025
 - Hareshkumar Jadav, Sreekara Madyastha, Rahul Raut, Ranveer Singh "[Strengthening Wilf’s lower bound on clique number ](https://arxiv.org/pdf/2504.04836))" [ISSAC](https://www.issac-conference.org/2025/), 2025
