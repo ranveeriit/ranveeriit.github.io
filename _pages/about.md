@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My course on NPTEL [Introduction to Algebraic Graph Theory](https://onlinecourses.nptel.ac.in/noc25_cs85/preview)
+My course on NPTEL [Introduction to Algebraic Graph Theory](https://www.youtube.com/watch?v=zwovrA6709I)
 
 I am an Associate Professor in the Department of Computer Science & Engineering, IIT Indore. At present, I am the head of the department. 
 
