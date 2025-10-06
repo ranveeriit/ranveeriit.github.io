@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+My course on NPTEL [Introduction to Algebraic Graph Theory](https://onlinecourses.nptel.ac.in/noc25_cs85/preview)
+
 I am an Assistant Professor in the [Department of Computer Science & Engineering, IIT Indore](http://cse.iiti.ac.in/). At present, I am the head of the department. 
 
 "Everybody understood that if the proof is correct, then no other recognition is needed"- [Grigori Perelman](https://en.wikipedia.org/wiki/Grigori_Perelman) (The mad monk of maths)
