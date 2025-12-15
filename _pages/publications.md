@@ -4,6 +4,7 @@ title: ""
 permalink: /publications/
 author_profile: true
 --- 
+- Priyanshu Pant, Surabhi Chakraborty, Ranveer Singh "[A Permanental analog of Rank-Nullity Theorem for Symmetric Matrices](https://stacs2026.imag.fr/)" STACS, 2026
 - Hareshkumar Jadav, Mihir Patel, Samip Shah, Ranveer Singh and Harsh Talati “[Generating Constrained Lattice Paths in a Grid related to counting cycles](https://ictcs2025.unich.it/)” ICTCS, 2025
 - Surabhi Chakrabartty and Ranveer Singh “[Permanent as determinants for bipartite graphs](https://arxiv.org/pdf/2503.08128)” [ISSAC](https://www.issac-conference.org/2025/), 2025
 - Abhinav Bitragunta, Hareshkumar Jadav, Ranveer Singh "[Cartesian Prime Graphs and Cospectral Families](https://arxiv.org/pdf/2505.24358)" [ISSAC](https://www.issac-conference.org/2025/), 2025
