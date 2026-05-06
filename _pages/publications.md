@@ -4,6 +4,8 @@ title: ""
 permalink: /publications/
 author_profile: true
 --- 
+- Priyanshu Pant, Ranveer Singh “[Permanental Energy of Graphs](https://event.ntu.edu.sg/cocoon2026)” COCOON, 2026
+- Yiyang Lu, Hareshkumar Jadav, Mohammad Pedramfar, Ranveer Singh, Vaneet Aggarwal “[Upper-Linearizability of Online Non-Monotone DR-Submodular Maximization over Down-Closed Convex Sets](https://icml.cc/)” ICML, 2026
 - Haresh Kumar Jadav, Ranveer Singh, Vaneet Aggarwal “[Stronger Approximation Guarantees for Non-Monotone 𝛾-Weakly DR-Submodular Maximization](https://arxiv.org/pdf/2601.00611)” AAMAS, 2026
 - Priyanshu Pant, Surabhi Chakraborty, Ranveer Singh “[A Permanental analog of Rank-Nullity Theorem for Symmetric Matrices](https://drops.dagstuhl.de/storage/00lipics/lipics-vol364-stacs2026/LIPIcs.STACS.2026.70/LIPIcs.STACS.2026.70.pdf)” STACS, 2026
 - Hareshkumar Jadav, Mihir Patel, Samip Shah, Ranveer Singh and Harsh Talati “[Generating Constrained Lattice Paths in a Grid related to counting cycles](https://ictcs2025.unich.it/)” ICTCS, 2025
