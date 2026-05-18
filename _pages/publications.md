@@ -9,9 +9,9 @@ author_profile: true
 - Haresh Kumar Jadav, Ranveer Singh, Vaneet Aggarwal “[Stronger Approximation Guarantees for Non-Monotone 𝛾-Weakly DR-Submodular Maximization](https://arxiv.org/pdf/2601.00611)” AAMAS, 2026
 - Priyanshu Pant, Surabhi Chakraborty, Ranveer Singh “[A Permanental analog of Rank-Nullity Theorem for Symmetric Matrices](https://drops.dagstuhl.de/storage/00lipics/lipics-vol364-stacs2026/LIPIcs.STACS.2026.70/LIPIcs.STACS.2026.70.pdf)” STACS, 2026
 - Hareshkumar Jadav, Mihir Patel, Samip Shah, Ranveer Singh and Harsh Talati “[Generating Constrained Lattice Paths in a Grid related to counting cycles](https://ictcs2025.unich.it/)” ICTCS, 2025
-- Surabhi Chakrabartty and Ranveer Singh “[Permanent as determinants for bipartite graphs](https://arxiv.org/pdf/2503.08128)” [ISSAC](https://www.issac-conference.org/2025/), 2025
-- Abhinav Bitragunta, Hareshkumar Jadav, Ranveer Singh "[Cartesian Prime Graphs and Cospectral Families](https://arxiv.org/pdf/2505.24358)" [ISSAC](https://www.issac-conference.org/2025/), 2025
-- Hareshkumar Jadav, Sreekara Madyastha, Rahul Raut, Ranveer Singh "[Strengthening Wilf’s lower bound on clique number ](https://arxiv.org/pdf/2504.04836))" [ISSAC](https://www.issac-conference.org/2025/), 2025
+- Surabhi Chakrabartty and Ranveer Singh “[Permanent as determinants for bipartite graphs](https://arxiv.org/pdf/2503.08128)” [ISSAC](https://www.issac-conference.org/2025/), (Short Communication) 2025
+- Abhinav Bitragunta, Hareshkumar Jadav, Ranveer Singh "[Cartesian Prime Graphs and Cospectral Families](https://arxiv.org/pdf/2505.24358)" [ISSAC](https://www.issac-conference.org/2025/), (Short Communication) 2025
+- Hareshkumar Jadav, Sreekara Madyastha, Rahul Raut, Ranveer Singh "[Strengthening Wilf’s lower bound on clique number ](https://arxiv.org/pdf/2504.04836))" [ISSAC](https://www.issac-conference.org/2025/), (Short Communication) 2025
 - Aman Singh, Shahid Shafi Dar, Ranveer Singh, Nagendra Kumar “[A Hybrid Similarity-Aware Graph Neural Network with Transformer for Node Classification](https://www.sciencedirect.com/science/article/pii/S0957417425009145?dgcid=coauthor)" *Expert Systems with Applications* (2025)
 - Surabhi Chakrabartty and Ranveer Singh “[Permanent of bipartite graphs in terms of determinants](https://arxiv.org/pdf/2503.08128)” [IWOCA](https://www.cs.montana.edu/bhz/iwoca2025/), 2025
 - Hareshkumar, Sreekara Madyastha, Rahul Raut, Ranveer Singh. “Generalizing Wilf’s inequality for strongly regular graphs” *MatTriad'25* (2025)
