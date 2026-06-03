@@ -4,6 +4,7 @@ title: ""
 permalink: /talks/
 author_profile: true
 --- 
+My course on NPTEL [Introduction to Algebraic Graph Theory](https://www.youtube.com/watch?v=zwovrA6709I)
 - Invited talk- at exploreCSR 2023-2024: Google Research Sponsored Mentorship Program- IIT Roorkee, 2024
 
 - Convener and lecturer for Advanced Training in Mathematics for [Algorithmic Graph Theory](https://www.atmschools.org/2023), supported by NBHM, TIFR, IIT Bombay  
