@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-My courses on NPTEL
-
-[Linear Algenbra for Machine Learning and Quantum Computing](https://www.youtube.com/watch?v=dNkmbeB5hv0&t=123s)
-
-[Introduction to Algebraic Graph Theory](https://www.youtube.com/watch?v=zwovrA6709I)
+# My courses on NPTEL
+-[Linear Algenbra for Machine Learning and Quantum Computing](https://www.youtube.com/watch?v=dNkmbeB5hv0&t=123s)
+-[Introduction to Algebraic Graph Theory](https://www.youtube.com/watch?v=zwovrA6709I)
 
 I am an Associate Professor in the Department of Computer Science & Engineering, IIT Indore. At present, I am the head of the department. 
 
