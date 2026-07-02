@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 My courses on NPTEL
+
 [Linear Algenbra for Machine Learning and Quantum Computing](https://www.youtube.com/watch?v=dNkmbeB5hv0&t=123s)
 
 [Introduction to Algebraic Graph Theory](https://www.youtube.com/watch?v=zwovrA6709I)
