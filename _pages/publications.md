@@ -4,6 +4,7 @@ title: ""
 permalink: /publications/
 author_profile: true
 --- 
+- Priyanshu Pant, Ranveer Singh “[On Chollet’s Permanent Conjecture for Graph Laplacians](https://arxiv.org/pdf/2604.24192)” 2026
 - Priyanshu Pant, Ranveer Singh “[Exponential Lower Bounds for the Pfaffian Number of Graphs ](https://arxiv.org/pdf/2605.21077)” 2026
 - Priyanshu Pant, Ranveer Singh “[Permanental Energy of Graphs](https://arxiv.org/pdf/2604.24165)” COCOON, 2026
 - Yiyang Lu, Hareshkumar Jadav, Mohammad Pedramfar, Ranveer Singh, Vaneet Aggarwal “[Upper-Linearizability of Online Non-Monotone DR-Submodular Maximization over Down-Closed Convex Sets](https://icml.cc/)” ICML, 2026
