@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 --- 
  # Invited Talks
-- [STCS-TIFR](https://www.tcs.tifr.res.in/web/)  [Exponential lower bounds on Pffafian number of graphs ](https://ranveeriit.github.io/files/PPTs.pdf) 
+- [STCS-TIFR](https://www.tcs.tifr.res.in/web/) on [Exponential lower bounds on Pffafian number of graphs ](https://ranveeriit.github.io/files/PPTs.pdf) 
 
 - exploreCSR 2023-2024: Google Research Sponsored Mentorship Program- IIT Roorkee, 2024
 
