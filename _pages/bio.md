@@ -6,4 +6,4 @@ author_profile: true
 ---
 
 
-I completed my B.Tech in the year 2012 from IIT Jodhpur in Computer Science and Engineering. I completed my Ph.D. in July 2018 from IIT Jodhpur in the Department of Mathematics. From December 2017- October 2019, I was a postdoctoral fellow at the Technion-Israel Institute of Technology in the Department of Mathematics. In June 2020, I joined IIT Indore as an assistant professor in the Department of Computer Science and Engineering. 
+I completed my B.Tech. in Computer Science and Engineering from IIT Jodhpur in 2012 and my Ph.D. from the Department of Mathematics at IIT Jodhpur in July 2018. From December 2017 to October 2019, I was a Postdoctoral Fellow in the Department of Mathematics at the Technion–Israel Institute of Technology. I joined the Department of Computer Science and Engineering at IIT Indore as an Assistant Professor in June 2020. Since September 2025, I have been serving as an Associate Professor at IIT Indore.
