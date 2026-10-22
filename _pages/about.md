@@ -12,7 +12,7 @@ redirect_from:
 - [Linear Algebra for Machine Learning and Quantum Computing](https://www.youtube.com/watch?v=dNkmbeB5hv0&t=123s)
 - [Introduction to Algebraic Graph Theory](https://www.youtube.com/watch?v=zwovrA6709I)
 
-I am an Associate Professor in the Department of Computer Science & Engineering, IIT Indore. At present, I am the head of the department. 
+I am an Associate Professor in the Department of Computer Science & Engineering, IIT Indore.  
 
 "Everybody understood that if the proof is correct, then no other recognition is needed"- [Grigori Perelman](https://en.wikipedia.org/wiki/Grigori_Perelman) (The mad monk of maths)
 
@@ -20,13 +20,9 @@ I have a huge regard for mathematics (the queen of sciences), and mathematicians
 
 
 # Research Interests
-I broadly work in algebraic graph theory, that is, the study of graphs using the matrices associated with graphs like adjacency matrix, Laplacian matrix, Seidel matrix, etc. In addition I work in quantum computing.   
+I broadly work in determinant vs permanent question, algebraic graph theory, that is, the study of graphs using the matrices associated with graphs like adjacency matrix, Laplacian matrix, Seidel matrix, etc. In addition I work in quantum computing.   
 
 
-# Ongoing project under me
-- Reducing parameterized complexities of matrix determinants and permanents.
-- Construction of expanders and Ramanujan graphs for fast network topologies.
-- Community detection in large networks.
 
 # Subjects taught
 - Theory of Computation- Spring 2020
@@ -34,9 +30,9 @@ I broadly work in algebraic graph theory, that is, the study of graphs using the
 - Automata Theory and Logic- Spring 2021
 - Design and Analysis of Algorithms- Spring 2022
 - Discrete Mathematics- Fall 2022
-- Linear Algebra and Probability- Fall 2023
+- Linear Algebra and Probability- Fall 2023, Fall 2025, Fall 2026
 - Algorithmic Graph Theory- Spring 2024
-- Algebraic Graph Theory- Fall 2024, Spring 2024
+- Algebraic Graph Theory- Fall 2024, Spring 2024, Spring 2026
 
 
 # Contact Address:
