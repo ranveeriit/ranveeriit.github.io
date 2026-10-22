@@ -16,7 +16,7 @@ I am an Associate Professor in the Department of Computer Science & Engineering,
 
 "Everybody understood that if the proof is correct, then no other recognition is needed"- [Grigori Perelman](https://en.wikipedia.org/wiki/Grigori_Perelman) (The mad monk of maths)
 
-I have a huge regard for mathematics (the queen of sciences), and mathematicians (I am very far from being one). They are the best contributor to humanity, often silent yet elegant, they are always well ahead of the present time, the world follow them later. They have their own [challenges and frustration](https://www.isid.ac.in/~rbb/imsgen.pdf)  nicely explained by mathematician [RB Bapat](https://en.wikipedia.org/wiki/Ravindra_Bapat).   
+I have a huge regard for mathematics (the queen of sciences), and mathematicians. They are the best contributor to humanity, often silent yet elegant, they are always well ahead of the present time, the world follow them later. They have their own [challenges and frustration](https://www.isid.ac.in/~rbb/imsgen.pdf)  nicely explained by mathematician [RB Bapat](https://en.wikipedia.org/wiki/Ravindra_Bapat).   
 
 
 # Research Interests
