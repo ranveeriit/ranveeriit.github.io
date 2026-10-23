@@ -4,6 +4,8 @@ title: ""
 permalink: /publications/
 author_profile: true
 --- 
+No AI tool was used to prove any of the results in the following papers. 
+- Priyanshu Pant, Ranveer Singh “[Pfaffian Recognition is in coRP](https://arxiv.org/pdf/2610.29817)” 2026
 - Priyanshu Pant, Ranveer Singh “[An Odd Pfaffian Number](https://arxiv.org/pdf/2609.22928)” 2026
 - Priyanshu Pant, Ranveer Singh “[Structural Classes for Chollet's Permanent Conjecture](https://arxiv.org/pdf/2604.24192)” 2026
 - Priyanshu Pant, Ranveer Singh “[Exponential Lower Bounds for the Pfaffian Number of Graphs ](https://arxiv.org/pdf/2605.21077)” 2026
