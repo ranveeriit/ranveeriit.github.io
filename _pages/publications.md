@@ -4,10 +4,9 @@ title: ""
 permalink: /publications/
 author_profile: true
 --- 
-No AI tool was used to prove any of the results in the following papers. 
-- Priyanshu Pant, Ranveer Singh “[Pfaffian Recognition is in coRP](https://arxiv.org/pdf/2610.29817)” 2026
-- Priyanshu Pant, Ranveer Singh “[An Odd Pfaffian Number](https://arxiv.org/pdf/2609.22928)” 2026
-- Priyanshu Pant, Ranveer Singh “[Structural Classes for Chollet's Permanent Conjecture](https://arxiv.org/pdf/2604.24192)” 2026
+- Priyanshu Pant, Ranveer Singh “[Pfaffian Recognition is in coRP](https://arxiv.org/pdf/2610.29817)” 2027
+- Priyanshu Pant, Ranveer Singh “[An Odd Pfaffian Number](https://arxiv.org/pdf/2609.22928)” SOFSEM 2027
+- Priyanshu Pant, Ranveer Singh “[Structural Classes for Chollet's Permanent Conjecture](https://arxiv.org/pdf/2604.24192)” SOFSEM 2027
 - Priyanshu Pant, Ranveer Singh “[Exponential Lower Bounds for the Pfaffian Number of Graphs ](https://arxiv.org/pdf/2605.21077)” ITCS 2027
 - Priyanshu Pant, Ranveer Singh “[Permanental Energy of Graphs](https://arxiv.org/pdf/2604.24165)” COCOON, 2026
 - Yiyang Lu, Hareshkumar Jadav, Mohammad Pedramfar, Ranveer Singh, Vaneet Aggarwal “[Upper-Linearizability of Online Non-Monotone DR-Submodular Maximization over Down-Closed Convex Sets](https://icml.cc/)” ICML, 2026
