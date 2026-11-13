@@ -4,7 +4,7 @@ title: ""
 permalink: /publications/
 author_profile: true
 --- 
-- Priyanshu Pant, Ranveer Singh “[Pfaffian Recognition is in coRP](https://arxiv.org/pdf/2610.29817)” 2027
+- Priyanshu Pant, Ranveer Singh “[Pfaffian Recognition is in coRP](https://arxiv.org/pdf/2610.29817)” 2026
 - Priyanshu Pant, Ranveer Singh “[An Odd Pfaffian Number](https://arxiv.org/pdf/2609.22928)” SOFSEM 2027
 - Priyanshu Pant, Ranveer Singh “[Structural Classes for Chollet's Permanent Conjecture](https://arxiv.org/pdf/2604.24192)” SOFSEM 2027
 - Priyanshu Pant, Ranveer Singh “[Exponential Lower Bounds for the Pfaffian Number of Graphs ](https://arxiv.org/pdf/2605.21077)” ITCS 2027
